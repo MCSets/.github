@@ -1,11 +1,6 @@
-# McSets
+# MCSets
 
-McSets is a creator-focused digital marketplace for game, community, and web assets.
-
-We support creators selling products and services for Minecraft, Roblox, Discord, and websites — including plugins, mods, bots, templates, builds, and custom commissions.
-
-This GitHub organization hosts official SDKs, API clients, and developer tooling for integrating with the McSets platform.  
-The core platform itself is proprietary and not open source.
+MCSets is an digital commerce platform for game servers and creators, sell digital goods, subscriptions, and services with built-in checkout, fraud protection, and global payments.
 
 ---
 
