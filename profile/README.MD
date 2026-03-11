@@ -15,4 +15,4 @@ MCSets is an digital commerce platform for game servers and creators, sell digit
 ## Links
 
 Website: https://mcsets.com  
-API & docs: https://mcsets.com/developers
+API & docs: https://mcsets.com/docs
